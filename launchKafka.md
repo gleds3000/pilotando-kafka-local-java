@@ -27,6 +27,7 @@ kafka-topics.sh --bootstrap-server localhost:9092 --create --topic piloto-msg
 ##Para visualizar as msg geradas 
  Conduktor
 app para windows linux e mac 
+https://www.conduktor.io/download/
  basta configura para seu ambiente localhost:9092
  
  
